@@ -33,6 +33,7 @@ builder.Services.AddIdentity<AppUser, IdentityRole>(options => {
 
 })
 .AddEntityFrameworkStores<ApplicationDBContext>();
+
 builder.Services.AddAuthentication(options => {
     options.DefaultAuthenticateScheme =
     options.DefaultChallengeScheme = 

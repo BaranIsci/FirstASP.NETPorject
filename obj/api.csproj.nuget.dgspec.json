@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\baran.isci\\Desktop\\myProjects\\api\\api.csproj": {}
+    "C:\\myProjects\\FirstASP.NETPorject\\api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\baran.isci\\Desktop\\myProjects\\api\\api.csproj": {
+    "C:\\myProjects\\FirstASP.NETPorject\\api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\baran.isci\\Desktop\\myProjects\\api\\api.csproj",
+        "projectUniqueName": "C:\\myProjects\\FirstASP.NETPorject\\api.csproj",
         "projectName": "api",
-        "projectPath": "C:\\Users\\baran.isci\\Desktop\\myProjects\\api\\api.csproj",
+        "projectPath": "C:\\myProjects\\FirstASP.NETPorject\\api.csproj",
         "packagesPath": "C:\\Users\\baran.isci\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\baran.isci\\Desktop\\myProjects\\api\\obj\\",
+        "outputPath": "C:\\myProjects\\FirstASP.NETPorject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\baran.isci\\AppData\\Roaming\\NuGet\\NuGet.Config",

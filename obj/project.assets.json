@@ -4687,11 +4687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\baran.isci\\Desktop\\myProjects\\api\\api.csproj",
+      "projectUniqueName": "C:\\myProjects\\FirstASP.NETPorject\\api.csproj",
       "projectName": "api",
-      "projectPath": "c:\\Users\\baran.isci\\Desktop\\myProjects\\api\\api.csproj",
+      "projectPath": "C:\\myProjects\\FirstASP.NETPorject\\api.csproj",
       "packagesPath": "C:\\Users\\baran.isci\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\baran.isci\\Desktop\\myProjects\\api\\obj\\",
+      "outputPath": "C:\\myProjects\\FirstASP.NETPorject\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\baran.isci\\AppData\\Roaming\\NuGet\\NuGet.Config",
